@@ -1,4 +1,7 @@
 # Legal Judgement Prediction MLOps Project
+With the advancement of artificial intelligence, the use of technology in the legal field is on the rise, and Legal Tech is leading the way in applying technology to the legal domain.
+However, Legal Tech services face challenges such as complex user interfaces, operational complexities of machine learning services, and performance degradation of machine learning models. In this project, we propose a Law MLOps-based judgment document retrieval service to address these issues. The Law MLOps-based judgment document retrieval service provides a user-friendly interface and employs the MLOps (Machine Learning Operations) methodology to address the operational complexities of machine learning services and performance degradation of machine learning models in the legal domain.
+
 ## MLOps System Architecture
 ![image](https://github.com/dellaanima/Legal-Judgement-Prediction-MLOps/assets/82052850/5263b19d-c27d-49ba-87f7-105f11c448ec)
 
