@@ -27,4 +27,4 @@ References:
 - https://docs.aws.amazon.com/sagemaker/latest/dg/pipelines-sdk.html (SageMaker Pipelines SDK)
 - https://docs.aws.amazon.com/sagemaker/latest/dg/pipelines-caching.html (Caching Pipeline Steps)
 - https://aws.amazon.com/de/blogs/machine-learning/use-a-sagemaker-pipeline-lambda-step-for-lightweight-model-deployments/ (AWS AIML Blog: Use a SageMaker Pipeline Lambda step for lightweight model deployments) 
-- https://github.com/aws-samples/mlops-sagemaker-github-actions
+- https://docs.aws.amazon.com/ko_kr/codestar/latest/userguide/create-github.html 
