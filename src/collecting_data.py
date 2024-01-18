@@ -115,7 +115,7 @@ def fetch_case_data(case_id, base_url):
             text = ''
 
         if content == '참조조문':
-            text = preprocess_laws_service(text)  # 전처리 함수 호출
+            text = preprocess_laws_service(text)  
 
         case_data[content] = text
     return case_data
@@ -241,8 +241,7 @@ def process_case_data(new_case_list, existing_case_ids, bucket, existing_key, co
     final_df.rename(columns={'matched_laws_service_id': 'laws_service_id', '판례내용' : 'fact', 'matched_laws_service': 'laws_service'}, inplace=True)
 
 
-    # 현재 Multi Label 을 처리가 안되므로, 아래와 같이 여러개의 laws_service_id 를 갖고 있는 row 는 버림 
-    # '|' 기호가 포함된 행을 필터링하여 제외
+
     final_df = final_df[~final_df['laws_service_id'].str.contains(r'\D')] 
    
     file_name = 'GP-LJP-mlops/data/collected_data/final_data.csv' 
