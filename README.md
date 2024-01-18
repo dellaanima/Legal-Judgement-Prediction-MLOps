@@ -1,9 +1,6 @@
 # Legal-Judgement-Prediction-MLOps
 
-<p align="center">
-  <img src="![녹화_2023_09_12_22_40_49_78](https://github.com/dellaanima/Legal-Judgement-Prediction-MLOps/assets/82052850/7061d01a-4f36-4c93-966a-b75231b146b5)
-">
-</p>
+![녹화_2023_09_12_22_40_49_78](https://github.com/dellaanima/Legal-Judgement-Prediction-MLOps/assets/82052850/7061d01a-4f36-4c93-966a-b75231b146b5)
 
 
 
