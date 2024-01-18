@@ -1,4 +1,6 @@
 # Legal Judgement Prediction MLOps Project
+## MLOps System Architecture
+![image](https://github.com/dellaanima/Legal-Judgement-Prediction-MLOps/assets/82052850/5263b19d-c27d-49ba-87f7-105f11c448ec)
 
 ## ML Pipleine Execution Demo 
 ![녹화_2023_09_12_22_40_49_78](https://github.com/dellaanima/Legal-Judgement-Prediction-MLOps/assets/82052850/6fd14da1-c103-4880-a684-642fd52e7567)
